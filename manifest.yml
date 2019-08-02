@@ -1,0 +1,4 @@
+---
+applications:
+- name: meine-python-app
+  command: python app.py
